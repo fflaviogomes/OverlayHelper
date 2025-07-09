@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1743463504 source:c:\users\pc\documents\dev\chatgpt\overlayhelper\overlayhelper\main_original.cpp
+	<tchar.h>
+	<windows.h>
+
+1752079211 source:c:\users\pc\documents\dev\chatgpt\overlayhelper\overlayhelper\main.cpp
+	<windows.h>
+	<gdiplus.h>
+	<commdlg.h>
+	<algorithm>
+
